@@ -1,0 +1,3002 @@
+[
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": true,
+        "smoker": true,
+        "chronic_disease": true
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": true,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": false,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": false
+    },
+    {
+        "previous_pneumonia": true,
+        "asthma": false,
+        "smoker": false,
+        "chronic_disease": true
+    }
+]
